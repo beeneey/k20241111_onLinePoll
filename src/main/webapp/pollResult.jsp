@@ -9,6 +9,11 @@
 <title>결과 보기</title>
 <link rel="icon" href="./images/kbo.png">
 
+<!--  
+	dgfdg
+-->
+
+
 <!-- 일정 시간이 경과되면 특정 웹 사이트로 이동하기 -->
 <!-- <meta http-equiv="refresh" content="5, url='https://www.naver.com'"> -->
 <!-- 일정 시간이 경과되면 특정 현재 웹 사이트를 다시 호출하기 -->
